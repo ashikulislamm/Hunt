@@ -39,9 +39,16 @@
         width: auto;
     }
 
-    #banner-part .banner {
+      #banner-part .banner {
         clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
     }
+    #banner-part .banner1 {
+        clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+    }
+    #banner-part .banner2 {
+        clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+    }
+
 
 #banner-part .prev {
     opacity: 0;
@@ -326,9 +333,16 @@
         width: auto;
     }
 
-    #banner-part .banner {
+      #banner-part .banner {
         clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
     }
+    #banner-part .banner1 {
+        clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+    }
+    #banner-part .banner2 {
+        clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+    }
+
 
     #banner-part .prev {
 	top: 85%;
@@ -580,9 +594,16 @@
         width: auto;
     }
 
-    #banner-part .banner {
+     #banner-part .banner {
         clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
     }
+    #banner-part .banner1 {
+        clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+    }
+    #banner-part .banner2 {
+        clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+    }
+
 
     #banner-part .prev {
 	top: 85%;
